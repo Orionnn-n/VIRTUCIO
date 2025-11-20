@@ -1,0 +1,100 @@
+ 1  ls
+    2  ls -al
+    3  cd documents
+    4  cd ..
+    5  cd documents
+    6  mkdir VIRTUCIO
+    7  ls
+    8  cd VIRTUCIO
+    9  LS
+   10  touch test.txt
+   11  ls
+   12  rm test.txt
+   13  ls
+   14  touch readme.md
+   15  ls
+   16  start readme.md
+   17  git init
+   18  ls -al
+   19  cd .git
+   20  ls -al
+   21  cd ..
+   22  readme.md
+   23  git status
+   24  git add .
+   25  git status
+   26  git commit-m
+   27  git config --global user.name
+   28  git config --global user.name "Orionnn-n
+   29  git config --global user.name
+   30  git status
+   31  $ git status
+   32  git init
+   33  git status
+   34  git add
+   35  git commit-m
+   36  git config --global user.name
+   37  git status
+   38  mkdir testfolderforcredentials
+   39  cd testfolderforcredentials
+   40  git clone 'Your GitHub Repo URL'
+   41  ls
+   42  cd 'repo name'~VIRTUCIO
+   43  vi testfile
+   44  cat testfile~
+   45  git status
+   46  git add testfile
+   47  git status
+   48  git commit -m "this is test file for credentials- 1st method"~
+   49  git push
+   50  git push
+   51  mkdir testfolderforcredentials
+   52  cd testfolderforcredentials
+   53  mkdir VIRTUCIO
+   54  cd VIRTUCIO
+   55  git clone https://github.com/Orionnn-n/VIRTUCIO.git~
+   56  ls
+   57  cd VIRTUCIO
+   58  vi testfile
+   59  git commit
+   60  git config --global user.name "Orionnn-n"
+   61  git config --global user.email "Robertvirtucio77@gmail.com~"
+   62  git push
+   63  git status
+   64  git add testfile
+   65  git status
+   66  cd ..
+   67  ls
+   68  cd VIRTUCIO
+   69  ls
+   70  git init
+   71  touch readme.md
+   72  start readme.md
+   73  git add
+   74  git add.
+   75  git add.
+   76  git add .
+   77  git status
+   78  git commit -m "firstcommit"
+   79  git branch -M
+   80  git branch -M main
+   81  git remote add origin https://github.com/Orionnn-n/VIRTUCIO.git
+   82  git push
+   83  git push -u origin main
+   84  start readme.md
+   85  git status
+   86  git add
+   87  git add .
+   88  git status
+   89  git commit -m "2nd"
+   90  git push
+   91  create history.txt
+   92  history.text
+   93  touch history.txt
+   94  ls
+   95  start history.txt
+   96  ls
+   97  start history.txt
+   98  git status
+   99  history
+
